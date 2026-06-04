@@ -6,6 +6,8 @@ int main(){
     for( i=1;i<=n;i++){
         sum=sum+i;
     }
-printf("the sum of the first %d is %d",n,sum);
+    printf("the sum of the first %d number is %d",n,sum);
+    return 0;
+
     
 }
